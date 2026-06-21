@@ -6,6 +6,13 @@ O dataview.ipynb é um projeto de análise exploratória de dados (EDA) de venda
 O notebook lê, limpa, transforma, analisa e visualiza um dataset de vendas gerado de forma fictícia, gerando insights relevantes e relatórios exportáveis.
 
 
+### Importante
+
+A versão 1 foi escolhida para data/final/. 
+
+Pela análises, verificou-se que os outliers correspondem a vendas reais de notebooks em grandes quantidades. Considerando que o dataset também apresenta compras em grandes quantidades para outros produtos e que o preço unitário dos notebooks é naturalmente mais alto, essas observações não caracterizam erros ou inconsistências nos dados. Dessa forma, os "outliers" serão mantidos, optando pela versão 1.
+
+
 ## O que o projeto analisa
 
 - Receita total e volume de vendas por mês
