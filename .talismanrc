@@ -1,4 +1,0 @@
-fileignoreconfig:
-- filename: README.md
-  checksum: f9088f6fd8be58067c28d876074d4574816bb23ec3651f99ecbfd8b23a505daa
-version: "1.0"
